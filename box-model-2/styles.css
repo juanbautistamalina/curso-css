@@ -1,0 +1,14 @@
+.caja-azul {
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+  }
+  .caja-roja {
+    display: inline-block;
+    background-color: lightcoral;
+    width: 100px;
+    height: 100px;
+    margin-left: 16px;
+    padding-top: 16px;   
+  }

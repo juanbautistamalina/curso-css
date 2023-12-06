@@ -1,0 +1,11 @@
+div > h2{
+    color:red;
+}
+
+div > p{
+    color:blue;
+}
+
+div > button{
+    color:green;
+}
